@@ -1,0 +1,1 @@
+This folder contains the "raw" data received from the API, i.e. before any transformations are have been made.
